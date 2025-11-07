@@ -1,0 +1,20 @@
+{
+  "name": "day5_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ansh-stack00/Day5_automation_-_CI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ansh-stack00/Day5_automation_-_CI/issues"
+  },
+  "homepage": "https://github.com/ansh-stack00/Day5_automation_-_CI#readme"
+}
